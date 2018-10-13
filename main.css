@@ -1,0 +1,22 @@
+
+.my-container{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.card{
+
+    height: 250px;
+    width: 200px;
+    margin: 70px;
+    margin-bottom: 50px;
+}
+
+.spacer{
+
+    height:35px;
+    width:100%;
+
+}
